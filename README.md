@@ -1,4 +1,4 @@
-# Github_profile
+# sh-mms
 
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=120&text=Welcom%20to%20Seok%20Hyun's%20Github&animation=&fontColor=ffffff&fontSize=40" />
